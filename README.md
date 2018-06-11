@@ -9,7 +9,7 @@ Driven by  _"What i cannot create, I do not understand", Richard Feynman_
 - Web 
    - Frontend Library [ WIP ]
 - AI
-- Desktop
+- Game ( web )
 
 ### Formating
 
