@@ -7,7 +7,7 @@ Driven by  _"What i cannot create, I do not understand", Richard Feynman_
 ## Skills
 
 - Web 
-   - Frontend Framework [ WIP ]
+   - Frontend Lib [ WIP ]
 - AI
 - Desktop
 
