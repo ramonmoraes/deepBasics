@@ -6,7 +6,14 @@ Driven by "what i cannot create i do not understand"
 
 ## Skills
 
- - Web 
-    - Javascript Framework [ WIP ]
- - AI
- - Desktop
+- Web 
+   - Javascript Framework [ WIP ]
+- AI
+- Desktop
+
+### Formating
+
+```
+Skillset
+  Objective - Language - LastModified
+```
