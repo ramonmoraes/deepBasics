@@ -3,11 +3,11 @@
 - Web
   - Frontend Framework
   - Canvas Api
-  - Crawler
+  - Crawler - GO
 - AI
   - Genetic Algorithm
   - Neural Network
   - Chatbot
-- Desktop
-  - Game
-  - Code Editor
+- Game ( Web )
+  - Card game
+  - Plataform
