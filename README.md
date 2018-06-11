@@ -7,7 +7,7 @@ Driven by  _"What i cannot create, I do not understand", Richard Feynman_
 ## Skills
 
 - Web 
-   - Javascript Framework [ WIP ]
+   - Frontend Framework [ WIP ]
 - AI
 - Desktop
 
@@ -15,5 +15,6 @@ Driven by  _"What i cannot create, I do not understand", Richard Feynman_
 
 ```
 Skillset
-  Objective - Language - LastModified
+  Objective - Language - Link - LastModified
+  Objective [ WIP ]
 ```
