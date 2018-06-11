@@ -15,6 +15,6 @@ Driven by  _"What i cannot create, I do not understand", Richard Feynman_
 
 ```
 Skillset
-  Objective - Language - Link - LastModified
+  Objective - Language - Link - Last Modified
   Objective [ WIP ]
 ```
