@@ -1,8 +1,12 @@
 # Deep basics
 
-Inspired by <a href="https://github.com/danistefanovic/build-your-own-x"> How to make your own X </a>\
+Inspired by <a href="https://github.com/danistefanovic/build-your-own-x"> How to make your own X </a>
+</br>
 Driven by  _"What i cannot create, I do not understand", Richard Feynman_
 
+**Rule**
+</br>
+I can only use bundlers as third party libs, except of course if I'm building a bundler. ~Which i don't think about building one soon~
 
 ## Skills
 
