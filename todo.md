@@ -5,6 +5,7 @@
   - Canvas Api
   - Crawler - GO
   - Google Extension
+  - Progressive Web App
 - AI
   - Genetic Algorithm
   - Neural Network
