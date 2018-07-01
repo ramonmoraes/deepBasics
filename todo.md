@@ -4,6 +4,7 @@
   - Frontend Framework
   - Canvas Api
   - Crawler - GO
+  - Web Scrapper
   - Google Extension
   - Progressive Web App
 - AI
