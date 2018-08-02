@@ -11,7 +11,7 @@ I can only use bundlers as third party libs, except of course if I'm building a 
 ## Skills
 
 - Web 
-   - Frontend Library - JS - <a href="https://github.com/ramonmoraes/greaterSiteBuilder"> Greater Site Builder </a> - [WIP]
+   - Frontend Library - JS - <a href="https://github.com/ramonmoraes/greaterSiteBuilder"> Greater Site Builder </a> - 02/08/2018
 - AI
 - Game ( web )
 
